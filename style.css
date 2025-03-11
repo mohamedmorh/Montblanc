@@ -6,7 +6,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 section{
-    background-image: url(../foto/book.jpg);
+    background-image: url(book.jpg);
     background-size: cover;
     background-position: center ;
     width: 800px;
